@@ -6,11 +6,11 @@ on:
       agent_name:
         description: 'ilhamx123'
         required: true
-        default: 'lokie'
+        default: 'ilhamx123'
       agent_description:
-        description: 'lokie'
+        description: 'ilhamx123'
         required: true
-        default: 'lokie AI Agent'
+        default: 'ilhamx123 AI Agent'
 
 jobs:
   verify:
